@@ -1,6 +1,6 @@
-export default function Nav() {
+export default function Nav(props) {
   return (
-    <nav>
+    <nav className={props.classname}>
       <ul>
         <li>
           <a href=" ">Women's</a>
