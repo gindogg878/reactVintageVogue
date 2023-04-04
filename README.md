@@ -1,4 +1,4 @@
-# [Netlify Live Link](https://stunning-gingersnap-fa880a.netlify.app/)
+# [Netlify Live Link](https://ginos-vintage-vogue-project.netlify.app/)
 
 # [Github pages Live Link](https://gindogg878.github.io/vintageVogue/)
 
